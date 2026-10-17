@@ -7,3 +7,4 @@ faiss-cpu
 chromadb
 pypdf
 jupyter
+langchain-anthropic

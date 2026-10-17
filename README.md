@@ -9,8 +9,8 @@ This repository documents my learning process: I rebuild the core concepts from 
 ## Topics
 
 | # | Topic | Status |
-|---|-------|--------|
-| 01 | LLM basics & API usage | ⏳ |
+|---|-------|-------|
+| 01 | LLM basics & API usage | 🔄 |
 | 02 | Prompt templates & chains | ⏳ |
 | 03 | Memory & chat history | ⏳ |
 | 04 | Document loaders, text splitting & embeddings | ⏳ |
@@ -40,4 +40,4 @@ copy .env.example .env       # then add your own API key
 ```
 
 ## Tech
-Python · LangChain · LangGraph · OpenAI / Gemini APIs · FAISS / Chroma · Jupyter
+  Python · LangChain · LangGraph · Claude / OpenAI / Gemini APIs · LangSmith · FAISS / Chroma · Jupyter
