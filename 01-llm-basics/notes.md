@@ -33,4 +33,4 @@
 - `hello_claude.py` — first call to Claude (Haiku) through LangChain's `ChatAnthropic`.
 
 ## My experiment
-- TODO: try different models (Haiku vs Sonnet) and compare answers and cost.
+- `model_params.py`: compared `temperature=0.0` vs `1.0`. At 0.0 the answers were almost identical; at 1.0 every answer was different. `max_tokens` limits answer length.
